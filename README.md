@@ -1,3 +1,5 @@
+<img src="GU2rM6QWQAADkgC.jpg" alt="GitHub Banner" width="100%" />
+
 # 💫 About Me:
 💻 I’m currently working on my bachelor thesis<br>👨‍💻 I'm currently working on creating websites with my friends<br>
 
